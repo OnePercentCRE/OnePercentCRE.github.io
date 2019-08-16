@@ -1,7 +1,3 @@
-<iframe src='http://atomicdistillery.com/CRECALC4/CRECALC.htm' width='695' height='300' border='0' frameborder='0' >
-    <p>Your browser does not support iframes.</p>
-</iframe>
-<!DOCTYPE html>
 <!-- saved from url=(0013)about:internet -->
 <html manifest="offline.appcache">
     <head><meta content='IE=Edge' http-equiv='X-UA-Compatible'>
